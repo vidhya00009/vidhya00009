@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vidhya00009
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vidhya Bharathi Shanmuga Sundar Raj
+- 👀 I’m interested in Software and Security Testing.
+- 🌱 I’m currently learning Cloud AWS.
+- 💞️ I’m looking to collaborate on Software world
+- 📫 How to reach me vidhyabharathis11122000@gmail.com
 
 <!---
 vidhya00009/vidhya00009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
